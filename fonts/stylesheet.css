@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'COMPUTER Robot';
+    src: url('COMPUTERRobot.eot');
+    src: url('COMPUTERRobot.eot?#iefix') format('embedded-opentype'),
+        url('COMPUTERRobot.woff2') format('woff2'),
+        url('COMPUTERRobot.woff') format('woff'),
+        url('COMPUTERRobot.ttf') format('truetype'),
+        url('COMPUTERRobot.svg#COMPUTERRobot') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
