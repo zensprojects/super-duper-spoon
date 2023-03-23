@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Computer 7';
+    src: url('Computer7.eot');
+    src: url('Computer7.eot?#iefix') format('embedded-opentype'),
+        url('Computer7.woff2') format('woff2'),
+        url('Computer7.woff') format('woff'),
+        url('Computer7.ttf') format('truetype'),
+        url('Computer7.svg#Computer7') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
